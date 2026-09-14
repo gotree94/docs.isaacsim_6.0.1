@@ -43,8 +43,7 @@ PhysX 또는 Newton으로 시뮬레이션하고, RTX 및 물리 기반 센서를
 * [GitHub에서 오픈 소스로 공개](https://github.com/isaac-sim)
 
 ---
-## TOC
-
+## Table of Contents
 ### 1.Getting Started (시작하기)
 ### 2.Tutorials (튜토리얼)
 ### 3.Isaac Sim Workflow Overview (Isaac Sim 워크플로 개요)
