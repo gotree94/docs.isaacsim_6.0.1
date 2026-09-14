@@ -44,10 +44,10 @@
 
 | 설치 방식 | 설명 |
 |-----------|------|
-| **빠른 설치** | 로컬 환경을 빠르게 설정하는 가장 빠른 경로 |
-| **워크스테이션 설정** | 전체 앱과 로컬 의존성 설치 |
-| **컨테이너 설정** | Docker에서 Isaac Sim을 실행하여 반복 가능한 환경 구성 |
-| **Python 환경** | pip 또는 conda를 사용한 Python 기반 워크플로 |
+| [**빠른 설치**](https://docs.isaacsim.omniverse.nvidia.com/6.0.1/installation/quick-install.html#isaac-sim-quick-install) | 로컬 환경을 빠르게 설정하는 가장 빠른 경로 |
+| [**워크스테이션 설정**](https://docs.isaacsim.omniverse.nvidia.com/6.0.1/installation/install_workstation.html#isaac-sim-app-install-workstation) | 전체 앱과 로컬 의존성 설치 |
+| [**컨테이너 설정**](https://docs.isaacsim.omniverse.nvidia.com/6.0.1/installation/install_container.html#isaac-sim-app-install-container) | Docker에서 Isaac Sim을 실행하여 반복 가능한 환경 구성 |
+| [**Python 환경**](https://docs.isaacsim.omniverse.nvidia.com/6.0.1/installation/install_python.html#isaac-sim-app-install-python) | pip 또는 conda를 사용한 Python 기반 워크플로 |
 
 > **팁**: 문제가 발생하면 [설정 팁](공통 수정 방법) 또는 [문제 해결] 페이지를 참조하세요.
 
