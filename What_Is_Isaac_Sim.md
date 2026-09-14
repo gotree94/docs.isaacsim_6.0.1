@@ -2,11 +2,11 @@
 
 ---
 
-### 1.Getting Started (시작하기)
-### 2.Tutorials (튜토리얼)
-### 3.Isaac Sim Workflow Overview (Isaac Sim 워크플로 개요)
-### 4.Robotics Ecosystem (로봇 생태계)
-### 5.Open Source & Community (합성 데이터 생성)
+* 1.Getting Started (시작하기)
+* 2.Tutorials (튜토리얼)
+* 3.Isaac Sim Workflow Overview (Isaac Sim 워크플로 개요)
+* 4.Robotics Ecosystem (로봇 생태계)
+* 5.Open Source & Community (합성 데이터 생성)
 
 ---
 
