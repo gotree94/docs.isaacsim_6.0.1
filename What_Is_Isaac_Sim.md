@@ -2,14 +2,6 @@
 
 ---
 
-**1.Getting Started (시작하기)** <br>
-**2.Tutorials (튜토리얼)** <br>
-**3.Isaac Sim Workflow Overview (Isaac Sim 워크플로 개요)** <br>
-**4.Robotics Ecosystem (로봇 생태계)** <br>
-**5.Open Source & Community (합성 데이터 생성)** <br>
-
----
-
 * URDF, MJCF, Onshape CAD 또는 USD에서 로봇과 씬을 가져옵니다. <br>
 PhysX 또는 Newton으로 시뮬레이션하고, RTX 및 물리 기반 센서를 추가하며, <br>
 합성 데이터를 생성하고, Isaac Lab을 위한 로봇을 준비하고, ROS 2로 로봇 스택을 검증합니다.
@@ -32,9 +24,18 @@ PhysX 또는 Newton으로 시뮬레이션하고, RTX 및 물리 기반 센서를
    * 물리 속성을 통합 관리하는 표준 프레임워크로 널리 사용됩니다.
 
 ---
+
 * [Quick Install](https://docs.isaacsim.omniverse.nvidia.com/6.0.1/installation/quick-install.html)
 * [Tutorial](https://docs.isaacsim.omniverse.nvidia.com/6.0.1/#tutorials)
 * [GitHub에서 오픈 소스로 공개](https://github.com/isaac-sim)
+
+---
+
+**1.Getting Started (시작하기)** <br>
+**2.Tutorials (튜토리얼)** <br>
+**3.Isaac Sim Workflow Overview (Isaac Sim 워크플로 개요)** <br>
+**4.Robotics Ecosystem (로봇 생태계)** <br>
+**5.Open Source & Community (합성 데이터 생성)** <br>
 
 ---
 
