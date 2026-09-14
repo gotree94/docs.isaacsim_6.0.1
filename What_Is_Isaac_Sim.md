@@ -21,7 +21,10 @@
    * 엔비디아 Omniverse 등 최신 그래픽스 및 3D 로보틱스 시뮬레이션 환경에서 복합적인 3D 에셋과 라이팅,
    * 물리 속성을 통합 관리하는 표준 프레임워크로 널리 사용됩니다.
 
-GitHub에서 오픈 소스로 공개
+---
+[Quick Install](https://docs.isaacsim.omniverse.nvidia.com/6.0.1/installation/quick-install.html)
+[Tutorial](https://docs.isaacsim.omniverse.nvidia.com/6.0.1/#tutorials)
+[GitHub에서 오픈 소스로 공개](https://github.com/isaac-sim)
 
 ---
 
