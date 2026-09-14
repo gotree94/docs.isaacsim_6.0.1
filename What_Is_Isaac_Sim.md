@@ -1,6 +1,25 @@
 # Isaac Sim이란?
 
-URDF, MJCF, Onshape CAD 또는 USD에서 로봇과 씬을 가져옵니다. PhysX 또는 Newton으로 시뮬레이션하고, RTX 및 물리 기반 센서를 추가하며, 합성 데이터를 생성하고, Isaac Lab을 위한 로봇을 준비하고, ROS 2로 로봇 스택을 검증합니다.
+* URDF, MJCF, Onshape CAD 또는 USD에서 로봇과 씬을 가져옵니다.
+* PhysX 또는 Newton으로 시뮬레이션하고, RTX 및 물리 기반 센서를 추가하며,
+* 합성 데이터를 생성하고, Isaac Lab을 위한 로봇을 준비하고, ROS 2로 로봇 스택을 검증합니다.
+
+* URDF (Unified Robot Description Format)
+   * ROS(Robot Operating System)에서 주로 사용하는 XML 기반의 로봇 모델링 규격입니다.
+   * 로봇의 링크(Link), 관절(Joint), 시각적/물리적 특성을 정의합니다.
+
+* MJCF (MuJoCo Format)
+   * 로봇공학 및 강화학습 시뮬레이터인 MuJoCo에서 사용하는 XML 기반 모델 파일 포맷입니다.
+   * 기계적 구동기, 피부, 제어 요소 및 복잡한 물리적 상호작용을 정밀하게 기술하도록 설계되었습니다.
+
+* Onshape CAD (Computer-Aided Design)
+   * Onshape는 웹 기반 SaaS CAD 플랫폼이며, 여기서 CAD는 Computer-Aided Design(컴퓨터 지원 설계)의 약자입니다.
+   * 컴퓨터를 활용해 2D/3D 기계 부품 및 조립품을 설계하는 기술 전반을 의미합니다.
+
+* USD (Universal Scene Description)
+   * 픽사(Pixar)에서 개발한 오픈소스 3D 씬 확장 규격입니다.
+   * 엔비디아 Omniverse 등 최신 그래픽스 및 3D 로보틱스 시뮬레이션 환경에서 복합적인 3D 에셋과 라이팅,
+   * 물리 속성을 통합 관리하는 표준 프레임워크로 널리 사용됩니다.
 
 GitHub에서 오픈 소스로 공개
 
