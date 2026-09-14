@@ -2,11 +2,11 @@
 
 ---
 
-## Getting Started
-## Tutorials
-## Isaac Sim Workflow Overview
-## Robotics Ecosystem
-## Open Source & Community
+## 1.Getting Started (시작하기)
+## 2.Tutorials (튜토리얼)
+## 3.Isaac Sim Workflow Overview
+## 4.Robotics Ecosystem
+## 5.Open Source & Community
 
 ---
 
