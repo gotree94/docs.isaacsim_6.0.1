@@ -20,6 +20,21 @@ PhysX 또는 Newton으로 시뮬레이션하고, RTX 및 물리 기반 센서를
    * 픽사(Pixar)에서 개발한 오픈소스 3D 씬 확장 규격입니다.
    * 엔비디아 Omniverse 등 최신 그래픽스 및 3D 로보틱스 시뮬레이션 환경에서 복합적인 3D 에셋과 라이팅,
    * 물리 속성을 통합 관리하는 표준 프레임워크로 널리 사용됩니다.
+---
+
+* 정리하면:
+   * 가져오기: URDF/MJCF/Onshape CAD/USD로 로봇·씬 임포트
+   * 시뮬레이션: PhysX(또는 Newton) 물리 엔진
+   * 센서: RTX 레이 트레이싱 기반 카메라·LiDAR 등 물리 기반 센서 시뮬레이션
+   * 합성 데이터 생성: 학습용 데이터 생성
+   * Isaac Lab: 강화학습/로봇 학습 파이프라인용 로봇 준비
+   * ROS 2: 로봇 소프트웨어 스택 검증
+
+* 공식 워크플로우 4단계와 매핑하면:
+   * Import → URDF/MJCF/Onshape/USD 임포트
+   * Configure → 물리 설정(PhysX/Newton), 센서·로봇 구성
+   * Simulate → 물리 시뮬레이션 + RTX 센서 + 합성 데이터 생성 (Isaac Lab 학습 포함)
+   * Connect/Deploy → ROS 2로 로봇 스택 검증하고 실로봇 배포
 
 ---
 
