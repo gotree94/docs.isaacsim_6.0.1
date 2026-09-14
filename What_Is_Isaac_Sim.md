@@ -22,9 +22,9 @@
    * 물리 속성을 통합 관리하는 표준 프레임워크로 널리 사용됩니다.
 
 ---
-[Quick Install](https://docs.isaacsim.omniverse.nvidia.com/6.0.1/installation/quick-install.html)
-[Tutorial](https://docs.isaacsim.omniverse.nvidia.com/6.0.1/#tutorials)
-[GitHub에서 오픈 소스로 공개](https://github.com/isaac-sim)
+* [Quick Install](https://docs.isaacsim.omniverse.nvidia.com/6.0.1/installation/quick-install.html)
+* [Tutorial](https://docs.isaacsim.omniverse.nvidia.com/6.0.1/#tutorials)
+* [GitHub에서 오픈 소스로 공개](https://github.com/isaac-sim)
 
 ---
 
