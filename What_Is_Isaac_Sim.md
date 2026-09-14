@@ -10,9 +10,9 @@
 
 ---
 
-* URDF, MJCF, Onshape CAD 또는 USD에서 로봇과 씬을 가져옵니다.
-* PhysX 또는 Newton으로 시뮬레이션하고, RTX 및 물리 기반 센서를 추가하며,
-* 합성 데이터를 생성하고, Isaac Lab을 위한 로봇을 준비하고, ROS 2로 로봇 스택을 검증합니다.
+* URDF, MJCF, Onshape CAD 또는 USD에서 로봇과 씬을 가져옵니다. <br>
+PhysX 또는 Newton으로 시뮬레이션하고, RTX 및 물리 기반 센서를 추가하며, <br>
+합성 데이터를 생성하고, Isaac Lab을 위한 로봇을 준비하고, ROS 2로 로봇 스택을 검증합니다.
 
 * URDF (Unified Robot Description Format)
    * ROS(Robot Operating System)에서 주로 사용하는 XML 기반의 로봇 모델링 규격입니다.
