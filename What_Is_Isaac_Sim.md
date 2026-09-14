@@ -49,7 +49,7 @@
 | [**컨테이너 설정**](https://docs.isaacsim.omniverse.nvidia.com/6.0.1/installation/install_container.html#isaac-sim-app-install-container) | Docker에서 Isaac Sim을 실행하여 반복 가능한 환경 구성 |
 | [**Python 환경**](https://docs.isaacsim.omniverse.nvidia.com/6.0.1/installation/install_python.html#isaac-sim-app-install-python) | pip 또는 conda를 사용한 Python 기반 워크플로 |
 
-> **팁**: 문제가 발생하면 [설정 팁](공통 수정 방법) 또는 [문제 해결] 페이지를 참조하세요.
+> **팁**: 문제가 발생하면 [설정 팁](https://docs.isaacsim.omniverse.nvidia.com/6.0.1/installation/install_faq.html)공통 수정 방법 또는 [문제 해결](https://docs.isaacsim.omniverse.nvidia.com/6.0.1/overview/troubleshooting.html#isaac-sim-troubleshooting) 페이지를 참조하세요.
 
 ---
 
